@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class Sort {
     public static void main(String[] args) {
         int[] a= {3, 1, 3, 5, 7, 3, 6, 12, 234 , 5};
