@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Test {
+public class DiverseArray {
     public static void main(String[] args) {
         int[][] array2D={{3, 4, 5}, {0, 5, 1}, {6, 7, 8}, {0, 2, 3}};
         System.out.print(isDiverse(array2D));
